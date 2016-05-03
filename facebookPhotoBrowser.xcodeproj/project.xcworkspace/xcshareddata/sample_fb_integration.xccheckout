@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EE848D3-C497-494F-8AD2-81FD0B43FC83</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sample_fb_integration</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B463C8AE9FFB53DA7A1AB0FF8B2FEF8234094B8B</key>
+		<string>https://github.com/sayeem88/FacebookBrowser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sample_fb_integration.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B463C8AE9FFB53DA7A1AB0FF8B2FEF8234094B8B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sayeem88/FacebookBrowser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B463C8AE9FFB53DA7A1AB0FF8B2FEF8234094B8B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B463C8AE9FFB53DA7A1AB0FF8B2FEF8234094B8B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sample_fb_integration</string>
+		</dict>
+	</array>
+</dict>
+</plist>
